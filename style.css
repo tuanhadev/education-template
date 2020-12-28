@@ -1496,7 +1496,7 @@ section,
 /*main page gallery end*/
 /*counter section start*/
 .edu2_counter_wrap{
-	background-color: #2d2e32;
+	background-color: #d10105;
 	position: relative;
 	z-index: 2;
 	padding:30px 0px;
@@ -1770,7 +1770,7 @@ section,
 	top: 0;
 	bottom: 0;
 	position: absolute;
-	background-color: #333333;
+	background-color: #333333d9;
 	opacity: 0.85;
 }
 .kf_edu2_training_des{
